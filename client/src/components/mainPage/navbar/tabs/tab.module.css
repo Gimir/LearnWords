@@ -1,0 +1,19 @@
+.div {
+  width: 100px;
+  margin: 0 5px 0 5px;
+  padding: 2px 5px 2px 5px;
+  border: 1px solid black;
+  border-bottom: none;
+  text-align: center;
+  position: relative;
+}
+.selected {
+  border: 1px solid blue;
+}
+.h3 {
+  margin: 0;
+  padding: 0;
+}
+.h3:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.saveBtn {
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: #339d44;
+  text-align: center;
+}
+.saveBtn:hover {
+  cursor: pointer;
+}
+.saveBtn:hover .saveBtn_h2 {
+  color: yellow;
+}
+.saveBtn_h2 {
+  line-height: 30px;
+  letter-spacing: 2px;
+}

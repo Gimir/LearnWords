@@ -1,0 +1,17 @@
+.word {
+  width: 80%;
+  height: 30px;
+  min-height: 30px;
+  position: relative;
+  border-bottom: 2px solid grey;
+  margin-bottom: 20px;
+  display: flex;
+}
+.word_left {
+  width: 50%;
+  text-align: left;
+}
+.word_right {
+  width: 50%;
+  text-align: rigth;
+}

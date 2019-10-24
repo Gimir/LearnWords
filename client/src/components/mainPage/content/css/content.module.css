@@ -1,0 +1,12 @@
+.div {
+  width: 100%;
+  background-color: lightgray;
+  box-sizing: border-box;
+  padding: 20px 0 20px 20px;
+}
+.addBtn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 50px 0 20px 0;
+}

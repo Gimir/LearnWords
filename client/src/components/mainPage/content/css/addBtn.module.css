@@ -1,0 +1,19 @@
+.button {
+  width: 150px;
+  height: 150px;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  border-radius: 80px;
+  box-sizing: border-box;
+}
+.button:hover {
+  cursor: pointer;
+  border-color: yellow;
+}
+.button_h1 {
+  margin: 0;
+  padding: 0;
+}
